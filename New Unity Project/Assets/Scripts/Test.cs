@@ -9,6 +9,8 @@ public class Test : MonoBehaviour
     {
         print("test");
         print("Black's modification");
+        print("test2");
+        print("test3");
     }
 
     // Update is called once per frame
